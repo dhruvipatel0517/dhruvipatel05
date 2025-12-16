@@ -56,11 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvipatel0517&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvipatel0517&theme=tokyonight" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvipatel0517&layout=compact&theme=tokyonight" />
-</p> -->

@@ -1,60 +1,66 @@
-# Hi 👋, I'm Dhruvi Patel
+<h1 align="center">Hi 👋, I'm DJ Patel</h1>
+<h3 align="center">Frontend Developer | Computer Science Student | Aspiring Full-Stack Developer</h3>
 
-🎓 Computer Science Student | 💻 Frontend Developer | 🌱 Aspiring Full-Stack Developer
-
----
-
-## 👨‍💻 Professional Summary
-I am a motivated **Computer Science student** with a strong interest in **web development**.  
-I focus on building **responsive, user-friendly web applications** and continuously improving my technical skills through hands-on projects and learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djpatel052006&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🎓 Education
-- **Bachelor of Computer Science**  
-  XYZ Institute of Technology  
-  2023 – 2027
+## 🚀 About Me
+- 💻 Frontend Developer passionate about clean UI & UX
+- 🌱 Currently learning **React & modern JavaScript**
+- 🎓 Computer Science college student
+- 🎯 Goal: Become a **Full-Stack Developer**
+- 🤝 Open to internships & collaborations
+- 📫 Reach me at: **djpatel052006@gmail.com**
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
-
-### Frameworks & Libraries
-- React  
-- Bootstrap
-
-### Tools & Platforms
-- Git & GitHub  
-- Visual Studio Code  
-- Browser Developer Tools
+## 🧑‍💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,linux,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
-- **Portfolio Website** – Personal portfolio showcasing skills and projects  
-- **Todo Application** – Task management web app using JavaScript & React  
+## 📌 Projects
+- 🚀 **Portfolio Website** – Personal portfolio with responsive design  
+- ✅ **Todo App** – Task management app using React  
 
 ---
 
-## 📈 Currently Learning
-- Advanced React (Hooks, State Management)  
-- API Integration  
-- Backend fundamentals for Full-Stack Development  
+## 🌱 Currently Learning
+- Advanced React (Hooks, State Management)
+- API Integration
+- Backend basics (Node.js & MongoDB)
 
 ---
 
 ## 🌐 Connect With Me
-- 🔗 GitHub: [djpatel052006](https://github.com/djpatel052006)
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin
-- 📧 Email: djpatel052006@gmail.com
+<p align="center">
+  <a href="https://github.com/djpatel052006">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href=["https://www.linkedin.com/in/your-linkedin"](https://www.linkedin.com/in/dhruvi-patel-54131538b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:djpatel052006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 💡 Career Objective
-To secure an **internship or entry-level role** where I can apply my skills, gain real-world experience, and grow as a **Full-Stack Developer**.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djpatel052006&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djpatel052006&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djpatel052006&layout=compact&theme=tokyonight" />
+</p>

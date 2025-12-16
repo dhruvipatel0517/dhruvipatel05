@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 - 💻 Frontend Developer passionate about clean UI & UX
 - 🌱 Currently learning **React & modern JavaScript**
 - 🎓 Computer Science college student

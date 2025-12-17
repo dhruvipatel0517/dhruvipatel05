@@ -28,9 +28,9 @@
 </p>
 
 <!-- Add an animated coding GIF below tech stack -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="coding animation" width="300" />
-</p>
+</p> -->
 
 ---
 
